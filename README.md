@@ -1,0 +1,1 @@
+# thrx-openjdk-8-jre-aws-alpine
